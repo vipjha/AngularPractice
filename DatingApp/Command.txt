@@ -1,0 +1,13 @@
+Create Solution: 
+dotnet new sln -- Solution name would be same as folder name
+
+Create Project:
+dotnet new webapi -controllers -n API
+
+Add Project in the Solution:
+dotnet sln add API
+
+
+
+
+

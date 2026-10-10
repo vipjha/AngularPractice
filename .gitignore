@@ -1,6 +1,10 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
+**/bin
+**/obj
+**/.vs
+**/node_modules
+**/.angular
+**/.vscode
 
-/angular-movies
-/Chat
